@@ -1,0 +1,170 @@
+.home {
+    position: absolute;
+    top: 17px;
+    left: 77px;
+    text-align: left;
+    display: inline-block;
+    width: 325px;
+    height: 54px;
+}
+.macbook-air-24-child {
+    position: absolute;
+    top: 20px;
+    left: 16px;
+    border-radius: 50%;
+    background-color: #d9d9d9;
+    width: 48px;
+    height: 48px;
+    cursor: pointer;
+}
+.four-students-from {
+    margin: 0;
+}
+.four-students-from-container {
+    position: absolute;
+    top: 1063px;
+    left: -18px;
+    font-size: 20px;
+    display: inline-block;
+    width: 1280px;
+    height: 77px;
+}
+.macbook-air-24-item {
+    position: absolute;
+    top: 154px;
+    left: 0px;
+    background-color: rgba(255, 255, 146, 0.8);
+    width: 1280px;
+    height: 63px;
+}
+.reasonable {
+    position: absolute;
+    top: 154px;
+    left: -43px;
+    display: inline-block;
+    width: 445px;
+    height: 75px;
+}
+.cutlet-curry {
+    position: absolute;
+    top: 254px;
+    left: -18px;
+    font-size: 300px;
+    letter-spacing: 0.22em;
+    font-family: 'Fredoka One';
+    color: rgba(0, 0, 0, 0.2);
+    display: inline-block;
+    width: 1298px;
+    opacity: 0.25;
+}
+.kare-2-icon {
+    position: absolute;
+    top: 55px;
+    left: 446px;
+    width: 894.7px;
+    height: 803.6px;
+    object-fit: contain;
+}
+.p {
+    margin-block-start: 0;
+    margin-block-end: 55px;
+    font-size: 36px;
+}
+.p1 {
+    margin-block-start: 0;
+    margin-block-end: 55px;
+}
+.i {
+    position: absolute;
+    top: 312px;
+    left: 64px;
+    display: inline-block;
+    font-weight: 900;
+    text-align: left;
+    width: 613px;
+    height: 507px;
+    font-size: 24px;
+}
+.macbook-air-24 {
+    width: 100%;
+    position: relative;
+    background-color: #fff;
+    height: 1154px;
+    overflow: hidden;
+    text-align: center;
+    font-size: 48px;
+    color: #000;
+    font-family: Inter;
+}
+
+.menu-button-open {
+	position: fixed;
+	width: 90px;
+	height: 92px;
+	top: 0;
+	right: 20px;
+	z-index: 1000;
+	font-weight: 400;
+	color: #000000;
+	font-size: 80px;
+	text-align: center;
+	letter-spacing: 0;
+	line-height: normal;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+	color: #cacaca;
+	cursor : pointer;
+  }
+  
+  #menu-check {
+	display: none;
+  }
+  
+.menu-overray-bg {
+	position: fixed;
+	width: 100%;
+	height: 100%;
+	top: 0;
+	left: 0;
+	z-index: 99;
+	background-color: rgba(128, 128, 128, 0);
+	transition-duration: 0.2s;
+  }
+  
+  #menu-check:checked ~ .menu-overray-bg {
+	background-color: rgba(128, 128, 128, 0.5);
+  }  
+  #menu-check:not(:checked) ~ .menu-overray-bg {
+	display: none;
+	z-index: 1;
+	background-color: rgba(128, 128, 128, 0);
+  }
+  
+ .menu-overray {
+	position: fixed;
+	width: 30%;
+	height: 100%;
+	top: 0;
+	left: 100%;
+	z-index: 101;
+	background-color:aliceblue;
+	transition-duration: 0.2s;
+  }
+.menu-container {
+	position: relative;
+	top: 100px;
+	display: flex;
+	flex-flow: column;
+	align-items: center;
+  }
+  
+.menu-overray a {
+	font-size: 48px;
+	padding: 0.5em;
+  }
+  
+  #menu-check:checked ~ .menu-overray {
+	left: 70%;
+  }  

@@ -1,0 +1,125 @@
+.home {
+    position: absolute;
+    top: 17px;
+    left: 77px;
+    text-align: left;
+    display: inline-block;
+    width: 325px;
+    height: 54px;
+}
+.omelette {
+    margin: 0;
+}
+.omelette-rice {
+    position: absolute;
+    top: 301px;
+    left: -932px;
+    font-size: 300px;
+    line-height: 87.5%;
+    display: inline-block;
+    font-family: Kalam;
+    color: rgba(0, 0, 0, 0.7);
+    width: 3117px;
+    text-shadow: 1px 0 0 #000, 0 1px 0 #000, -1px 0 0 #000, 0 -1px 0 #000;
+    opacity: 0.1;
+}
+.macbook-air-18-child {
+    position: absolute;
+    top: 20px;
+    left: 16px;
+    border-radius: 50%;
+    background-color: #d9d9d9;
+    width: 48px;
+    height: 48px;
+}
+.four-students-from-container {
+    position: absolute;
+    top: 932px;
+    left: -16px;
+    font-size: 20px;
+    display: inline-block;
+    width: 1280px;
+    height: 77px;
+}
+.macbook-air-18-item {
+    position: absolute;
+    top: 145px;
+    left: 0px;
+    filter: blur(5px);
+    background-color: rgba(145, 199, 131, 0.53);
+    width: 1280px;
+    height: 63px;
+}
+.unipue {
+    position: absolute;
+    top: 154px;
+    left: -91px;
+    display: inline-block;
+    width: 445px;
+    height: 75px;
+}
+.p {
+    margin-block-start: 0;
+    margin-block-end: 48px;
+}
+.span {
+    line-height: 29px;
+}
+.p1 {
+    margin-block-start: 0;
+    margin-block-end: 48px;
+    font-size: 24px;
+}
+.span2 {
+    line-height: 20px;
+}
+.span3 {
+    line-height: 30px;
+}
+.orienta-kitchen-container {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    display: inline-block;
+    font-weight: 900;
+    width: 613px;
+    height: 507px;
+}
+.orienta-kitchen-wrapper {
+    position: absolute;
+    top: 284px;
+    left: 640px;
+    width: 613px;
+    height: 507px;
+    text-align: left;
+    font-size: 20px;
+}
+.macbook-air-18-inner {
+    position: absolute;
+    top: 312px;
+    left: 129px;
+    border-radius: 50%;
+    background-color: #d9d9d9;
+    width: 450px;
+    height: 450px;
+}
+.icon {
+    position: absolute;
+    top: 176px;
+    left: -25px;
+    width: 757px;
+    height: 637.3px;
+    object-fit: contain;
+}
+.macbook-air-18 {
+    width: 100%;
+    position: relative;
+    background-color: #fff;
+    height: 1019px;
+    overflow: hidden;
+    text-align: center;
+    font-size: 48px;
+    color: #000;
+    font-family: Inter;
+}
+

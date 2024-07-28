@@ -1,0 +1,194 @@
+.home {
+    position: absolute;
+    top: 17px;
+    left: 77px;
+    text-align: left;
+    display: inline-block;
+    width: 325px;
+    height: 54px;
+}
+.macbook-air-32-child {
+    position: absolute;
+    top: 20px;
+    left: 16px;
+    border-radius: 50%;
+    background-color: #d9d9d9;
+    width: 48px;
+    height: 48px;
+    cursor: pointer;
+}
+.four-students-from {
+    margin: 0;
+}
+.four-students-from-container {
+    position: absolute;
+    top: 1421px;
+    left: 16px;
+    font-size: 20px;
+    display: inline-block;
+    width: 1280px;
+    height: 77px;
+}
+.macbook-air-32-item {
+    position: absolute;
+    top: 154px;
+    left: 0px;
+    background-color: rgba(227, 196, 129, 0.51);
+    width: 1280px;
+    height: 63px;
+}
+.bread-sweet {
+    position: absolute;
+    top: 154px;
+    left: -23px;
+    display: inline-block;
+    width: 445px;
+    height: 75px;
+}
+.caramel-orange-bread-container {
+    position: absolute;
+    top: 236px;
+    left: calc(50% - 663px);
+    font-size: 156px;
+    line-height: 108.47%;
+    font-family: Lemon;
+    color: rgba(0, 0, 0, 0.2);
+    display: inline-block;
+    width: 1340px;
+    height: 413px;
+    opacity: 0.25;
+}
+.strawberry-cream-danish-container {
+    position: absolute;
+    top: 839px;
+    left: calc(50% - 748px);
+    font-size: 154px;
+    font-family: Lemon;
+    color: rgba(0, 0, 0, 0.2);
+    display: inline-block;
+    width: 1496px;
+    height: 758px;
+    opacity: 0.25;
+}
+.karameru-deni-2-icon {
+    position: absolute;
+    top: 518px;
+    left: 323px;
+    width: 633px;
+    height: 475px;
+    object-fit: cover;
+}
+.p {
+    margin-block-start: 0;
+    margin-block-end: 55px;
+    font-size: 36px;
+}
+.p1 {
+    margin-block-start: 0;
+    margin-block-end: 55px;
+}
+.i {
+    position: absolute;
+    top: 852px;
+    left: 741px;
+    display: inline-block;
+    font-weight: 900;
+    text-align: left;
+    width: 479px;
+    height: 507px;
+    font-size: 24px;
+}
+.i1 {
+    position: absolute;
+    top: 249px;
+    left: 62px;
+    display: inline-block;
+    font-weight: 900;
+    text-align: left;
+    width: 428px;
+    height: 507px;
+    font-size: 24px;
+}
+.macbook-air-32 {
+    width: 100%;
+    position: relative;
+    background-color: #fff;
+    height: 1498px;
+    overflow: hidden;
+    text-align: center;
+    font-size: 48px;
+    color: #000;
+    font-family: Inter;
+}
+
+.menu-button-open {
+	position: fixed;
+	width: 90px;
+	height: 92px;
+	top: 0;
+	right: 20px;
+	z-index: 1000;
+	font-weight: 400;
+	color: #000000;
+	font-size: 80px;
+	text-align: center;
+	letter-spacing: 0;
+	line-height: normal;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+	color: #cacaca;
+	cursor : pointer;
+  }
+  
+  #menu-check {
+	display: none;
+  }
+  
+.menu-overray-bg {
+	position: fixed;
+	width: 100%;
+	height: 100%;
+	top: 0;
+	left: 0;
+	z-index: 99;
+	background-color: rgba(128, 128, 128, 0);
+	transition-duration: 0.2s;
+  }
+  
+  #menu-check:checked ~ .menu-overray-bg {
+	background-color: rgba(128, 128, 128, 0.5);
+  }  
+  #menu-check:not(:checked) ~ .menu-overray-bg {
+	display: none;
+	z-index: 1;
+	background-color: rgba(128, 128, 128, 0);
+  }
+  
+ .menu-overray {
+	position: fixed;
+	width: 30%;
+	height: 100%;
+	top: 0;
+	left: 100%;
+	z-index: 101;
+	background-color:aliceblue;
+	transition-duration: 0.2s;
+  }
+.menu-container {
+	position: relative;
+	top: 100px;
+	display: flex;
+	flex-flow: column;
+	align-items: center;
+  }
+  
+.menu-overray a {
+	font-size: 48px;
+	padding: 0.5em;
+  }
+  
+  #menu-check:checked ~ .menu-overray {
+	left: 70%;
+  }  

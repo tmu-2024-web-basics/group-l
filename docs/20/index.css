@@ -1,0 +1,210 @@
+.home {
+    position: absolute;
+    top: 17px;
+    left: 77px;
+    text-align: left;
+    display: inline-block;
+    width: 325px;
+    height: 54px;
+}
+.macbook-air-20-child {
+    position: absolute;
+    top: 20px;
+    left: 16px;
+    border-radius: 50%;
+    background-color: #d9d9d9;
+    width: 48px;
+    height: 48px;
+}
+.four-students-from {
+    margin: 0;
+}
+.four-students-from-container {
+    position: absolute;
+    top: 963px;
+    left: -16px;
+    font-size: 20px;
+    display: inline-block;
+    width: 1280px;
+    height: 77px;
+}
+.macbook-air-20-item {
+    position: absolute;
+    top: 145px;
+    left: 0px;
+    filter: blur(5px);
+    background-color: rgba(145, 199, 131, 0.53);
+    width: 1280px;
+    height: 63px;
+}
+.unipue {
+    position: absolute;
+    top: 154px;
+    left: -91px;
+    display: inline-block;
+    width: 445px;
+    height: 75px;
+}
+.group-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: rgba(255, 255, 255, 0.8);
+    width: 496px;
+    height: 511px;
+}
+.macbook-air-20-inner {
+    position: absolute;
+    top: 348px;
+    left: 674px;
+    width: 496px;
+    height: 511px;
+}
+.pibimpap-hamburg-steak-container {
+    position: absolute;
+    top: 267.57px;
+    left: 33px;
+    font-size: 300px;
+    line-height: 77.45%;
+    display: inline-block;
+    font-family: Kalam;
+    color: rgba(0, 0, 0, 0.7);
+    width: 1291px;
+    transform:  rotate(-3deg);
+    transform-origin: 0 0;
+    opacity: 0.1;
+}
+.icon {
+    position: absolute;
+    top: 303px;
+    left: 0px;
+    width: 649px;
+    height: 374px;
+    object-fit: cover;
+}
+.p {
+    margin-block-start: 0;
+    margin-block-end: 48px;
+    font-weight: 800;
+}
+.span {
+    line-height: 29px;
+}
+.i {
+    font-weight: 900;
+}
+.p1 {
+    margin-block-start: 0;
+    margin-block-end: 48px;
+    font-size: 24px;
+}
+.p2 {
+    margin-block-start: 0;
+    margin-block-end: 48px;
+}
+.span3 {
+    line-height: 20px;
+}
+.span4 {
+    line-height: 30px;
+}
+.div {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    display: inline-block;
+    width: 613px;
+    height: 507px;
+}
+.wrapper {
+    position: absolute;
+    top: 303px;
+    left: 637px;
+    width: 613px;
+    height: 507px;
+    text-align: left;
+    font-size: 20px;
+}
+.macbook-air-20 {
+    width: 100%;
+    position: relative;
+    background-color: #fff;
+    height: 1040px;
+    overflow: hidden;
+    text-align: center;
+    font-size: 48px;
+    color: #000;
+    font-family: Inter;
+}
+
+.menu-button-open {
+	position: fixed;
+	width: 90px;
+	height: 92px;
+	top: 0;
+	right: 20px;
+	z-index: 1000;
+	font-weight: 400;
+	color: #000000;
+	font-size: 80px;
+	text-align: center;
+	letter-spacing: 0;
+	line-height: normal;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+	color: #cacaca;
+	cursor : pointer;
+  }
+  
+  #menu-check {
+	display: none;
+  }
+  
+.menu-overray-bg {
+	position: fixed;
+	width: 100%;
+	height: 100%;
+	top: 0;
+	left: 0;
+	z-index: 99;
+	background-color: rgba(128, 128, 128, 0);
+	transition-duration: 0.2s;
+  }
+  
+  #menu-check:checked ~ .menu-overray-bg {
+	background-color: rgba(128, 128, 128, 0.5);
+  }  
+  #menu-check:not(:checked) ~ .menu-overray-bg {
+	display: none;
+	z-index: 1;
+	background-color: rgba(128, 128, 128, 0);
+  }
+  
+ .menu-overray {
+	position: fixed;
+	width: 30%;
+	height: 100%;
+	top: 0;
+	left: 100%;
+	z-index: 101;
+	background-color:aliceblue;
+	transition-duration: 0.2s;
+  }
+.menu-container {
+	position: relative;
+	top: 100px;
+	display: flex;
+	flex-flow: column;
+	align-items: center;
+  }
+  
+.menu-overray a {
+	font-size: 48px;
+	padding: 0.5em;
+  }
+  
+  #menu-check:checked ~ .menu-overray {
+	left: 70%;
+  }  

@@ -1,0 +1,738 @@
+
+
+
+.macbook-air-1-child {
+  	position: absolute;
+  	top: 553px;
+  	left: 663px;
+  	background-color: #f6f6c6;
+  	width: 275px;
+  	height: 374px;
+}
+.macbook-air-1-item {
+  	position: absolute;
+  	top: 95px;
+  	left: 830px;
+  	background-color: rgba(145, 199, 131, 0.5);
+  	width: 456px;
+  	height: 397px;
+}
+.macbook-air-1-inner {
+  	position: absolute;
+  	top: 599px;
+  	left: 17px;
+  	background-color: rgba(222, 186, 108, 0.62);
+  	width: 249px;
+  	height: 304px;
+}
+.rectangle-div {
+  	position: absolute;
+  	top: 95px;
+  	left: 391px;
+  	background-color: rgba(145, 199, 131, 0.5);
+  	width: 375px;
+  	height: 231px;
+}
+.macbook-air-1-child1 {
+  	position: absolute;
+  	top: 656px;
+  	left: 293px;
+  	background-color: rgba(145, 199, 131, 0.5);
+  	width: 324px;
+  	height: 200px;
+}
+.macbook-air-1-child2 {
+  	position: absolute;
+  	top: 531px;
+  	left: 958px;
+  	background-color: rgba(222, 186, 108, 0.61);
+  	width: 328px;
+  	height: 334px;
+}
+.macbook-air-1-child3 {
+  	position: absolute;
+  	top: 356px;
+  	left: 325px;
+  	background-color: #d9d9d9;
+  	width: 253px;
+  	height: 258px;
+}
+.macbook-air-1-child4 {
+  	position: absolute;
+  	top: 2306px;
+  	left: 320px;
+  	background-color: rgba(217, 217, 217, 0);
+  	border: 1px solid #000;
+  	box-sizing: border-box;
+  	width: 208px;
+  	height: 208px;
+}
+.icon {
+  	position: absolute;
+  	top: 128px;
+  	left: 442px;
+  	width: 267px;
+  	height: 165px;
+  	object-fit: cover;
+  	opacity: 0.8;
+}
+.group-child {
+  	position: absolute;
+  	top: 10.67px;
+  	left: 0px;
+  	border-radius: 5px;
+  	background-color: #d9d9d9;
+  	width: 36px;
+  	height: 5.3px;
+}
+.group-item {
+  	position: absolute;
+  	top: 21.33px;
+  	left: 0px;
+  	border-radius: 5px;
+  	background-color: #d9d9d9;
+  	width: 36px;
+  	height: 5.3px;
+}
+.group-inner {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	border-radius: 5px;
+  	background-color: #d9d9d9;
+  	width: 36px;
+  	height: 5.3px;
+}
+.rectangle-parent {
+  	position: absolute;
+  	top: 28px;
+  	left: 1214px;
+  	width: 36px;
+  	height: 26.7px;
+  	cursor: pointer;
+}
+.home {
+  	position: absolute;
+  	top: 17px;
+  	left: 77px;
+  	font-size: 48px;
+  	text-align: left;
+  	display: inline-block;
+  	width: 325px;
+  	height: 54px;
+}
+.ellipse-div {
+  	position: absolute;
+  	top: 20px;
+  	left: 16px;
+  	border-radius: 50%;
+  	background-color: #d9d9d9;
+  	width: 48px;
+  	height: 48px;
+}
+.concept {
+  	position: absolute;
+  	top: 1054px;
+  	left: 587px;
+  	font-weight: 900;
+  	font-family: Hanuman;
+  	text-align: left;
+  	display: inline-block;
+  	width: 162px;
+  	height: 44px;
+}
+.four-students-from {
+  	margin: 0;
+}
+.four-students-from-container {
+  	position: absolute;
+  	top: 2615px;
+  	left: 0px;
+  	font-size: 20px;
+  	display: inline-block;
+  	width: 1280px;
+  	height: 77px;
+}
+.introduction {
+  	position: absolute;
+  	top: 1300px;
+  	left: 546px;
+  	font-weight: 900;
+  	font-family: Hanuman;
+  	text-align: left;
+  	display: inline-block;
+  	width: 226px;
+  	height: 41px;
+}
+.div {
+  	position: absolute;
+  	top: 1141px;
+  	left: 308px;
+  	font-size: 24px;
+  	font-weight: 200;
+}
+.span {
+  	font-weight: 200;
+  	font-family: Inter;
+}
+.blank-line1 {
+  	margin: 0;
+  	font-size: 36px;
+}
+.div1 {
+  	position: absolute;
+  	top: 1384px;
+  	left: 428px;
+  	font-size: 24px;
+}
+.unique {
+  	position: absolute;
+  	top: 1442px;
+  	left: 258px;
+  	font-weight: 200;
+  	white-space: pre-wrap;
+}
+.macbook-air-1-child5 {
+  	position: absolute;
+  	top: 2301px;
+  	left: 77px;
+  	background-color: rgba(217, 217, 217, 0);
+  	border: 1px solid #000;
+  	box-sizing: border-box;
+  	width: 208px;
+  	height: 208px;
+}
+.macbook-air-1-child6 {
+  	position: absolute;
+  	top: 2306px;
+  	left: 796px;
+  	background-color: rgba(217, 217, 217, 0);
+  	border: 1px solid #000;
+  	box-sizing: border-box;
+  	width: 208px;
+  	height: 208px;
+}
+.macbook-air-1-child7 {
+  	position: absolute;
+  	top: 94px;
+  	left: 0px;
+  	background-color: #f6f6c6;
+  	border: 13px solid #f6f6c6;
+  	box-sizing: border-box;
+  	width: 287px;
+  	height: 456px;
+}
+.macbook-air-1-child8 {
+  	position: absolute;
+  	top: 2306px;
+  	left: 1039px;
+  	background-color: rgba(217, 217, 217, 0);
+  	border: 1px solid #000;
+  	box-sizing: border-box;
+  	width: 208px;
+  	height: 208px;
+}
+.macbook-air-1-child9 {
+  	position: absolute;
+  	top: 2306px;
+  	left: 558px;
+  	background-color: rgba(217, 217, 217, 0);
+  	border: 1px solid #000;
+  	box-sizing: border-box;
+  	width: 208px;
+  	height: 208px;
+}
+.g1-3-icon {
+  	position: absolute;
+  	top: 1639px;
+  	left: 244px;
+  	width: 326px;
+  	height: 313px;
+  	object-fit: contain;
+  	opacity: 0.5;
+}
+.karubo-1-3 {
+  	position: absolute;
+  	top: 1880px;
+  	left: 30px;
+  	width: 377px;
+  	height: 329px;
+  	object-fit: cover;
+  	opacity: 0.5;
+}
+.icon1 {
+  	position: absolute;
+  	top: 2114px;
+  	left: 0px;
+  	width: 331px;
+  	height: 395px;
+  	object-fit: cover;
+  	opacity: 0.5;
+}
+.icon2 {
+  	position: absolute;
+  	top: 2287px;
+  	left: 748px;
+  	width: 344px;
+  	height: 217px;
+  	object-fit: cover;
+  	opacity: 0.5;
+}
+.icon3 {
+  	position: absolute;
+  	top: 2223px;
+  	left: 438px;
+  	width: 467px;
+  	height: 299px;
+  	object-fit: cover;
+  	opacity: 0.4;
+}
+.meron-bata-3-icon {
+  	position: absolute;
+  	top: 2306px;
+  	left: 1003px;
+  	width: 277px;
+  	height: 208px;
+  	object-fit: cover;
+  	opacity: 0.5;
+}
+.kare-2-icon {
+  	position: absolute;
+  	top: 1953px;
+  	left: 493px;
+  	width: 312.7px;
+  	height: 300.4px;
+  	object-fit: contain;
+  	opacity: 0.5;
+}
+.icon4 {
+  	position: absolute;
+  	top: 426px;
+  	left: 812px;
+  	width: 655px;
+  	height: 420px;
+  	object-fit: cover;
+  	opacity: 0.8;
+}
+.icon5 {
+  	position: absolute;
+  	top: 579px;
+  	left: -88px;
+  	width: 490px;
+  	height: 309px;
+  	object-fit: cover;
+  	opacity: 0.8;
+}
+.g1-2-icon {
+  	position: absolute;
+  	top: 625px;
+  	left: 257px;
+  	width: 366.4px;
+  	height: 218.5px;
+  	object-fit: contain;
+  	opacity: 0.8;
+}
+.icon6 {
+  	position: absolute;
+  	top: 103px;
+  	left: -247px;
+  	width: 679px;
+  	height: 511px;
+  	object-fit: cover;
+  	opacity: 0.8;
+}
+.icon7 {
+  	position: absolute;
+  	top: -44px;
+  	left: 702px;
+  	width: 711.8px;
+  	height: 598.6px;
+  	object-fit: contain;
+  	opacity: 0.8;
+}
+.tyuou-tanpin-2-icon {
+  	position: absolute;
+  	top: 664px;
+  	left: 645px;
+  	width: 326px;
+  	height: 245px;
+  	object-fit: cover;
+  	opacity: 0.8;
+}
+.macbook-air-1-child10 {
+  	position: absolute;
+  	top: 394px;
+  	left: 0px;
+  	background-color: rgba(135, 99, 46, 0.62);
+  	width: 1280px;
+  	height: 220px;
+}
+.div2 {
+  	position: absolute;
+  	top: 543px;
+  	left: 524px;
+  	font-size: 32px;
+  	font-family: Hannari;
+  	color: #fff;
+  	text-align: left;
+}
+.ideal-school-lunch {
+  	position: absolute;
+  	top: 426px;
+  	left: 200px;
+  	font-size: 96px;
+  	font-family: Hanuman;
+  	color: #fff;
+  	text-align: left;
+}
+.frame-child {
+  	position: absolute;
+  	top: 36px;
+  	left: 77px;
+  	background-color: rgba(217, 217, 217, 0);
+  	border: 1px solid #000;
+  	box-sizing: border-box;
+  	width: 208px;
+  	height: 208px;
+}
+.frame-item {
+  	position: absolute;
+  	top: 36px;
+  	left: 315px;
+  	background-color: rgba(217, 217, 217, 0);
+  	border: 1px solid #000;
+  	box-sizing: border-box;
+  	width: 208px;
+  	height: 208px;
+}
+.frame-inner {
+  	position: absolute;
+  	top: 36px;
+  	left: 1039px;
+  	background-color: rgba(217, 217, 217, 0);
+  	border: 1px solid #000;
+  	box-sizing: border-box;
+  	width: 208px;
+  	height: 208px;
+}
+.frame-child1 {
+  	position: absolute;
+  	top: 36px;
+  	left: 791px;
+  	background-color: rgba(217, 217, 217, 0);
+  	border: 1px solid #000;
+  	box-sizing: border-box;
+  	width: 208px;
+  	height: 208px;
+}
+.frame-child2 {
+  	position: absolute;
+  	top: 36px;
+  	left: 553px;
+  	background-color: rgba(217, 217, 217, 0);
+  	border: 1px solid #000;
+  	box-sizing: border-box;
+  	width: 208px;
+  	height: 208px;
+}
+.icon8 {
+  	position: absolute;
+  	top: 47px;
+  	left: 1051px;
+  	width: 184px;
+  	height: 187px;
+  	object-fit: cover;
+  	opacity: 0.5;
+}
+.icon9 {
+  	position: absolute;
+  	top: 57px;
+  	left: 566px;
+  	width: 187px;
+  	height: 177px;
+  	object-fit: cover;
+  	opacity: 0.5;
+}
+.omu-3-icon {
+  	position: absolute;
+  	top: 9px;
+  	left: 13px;
+  	width: 318px;
+  	height: 238px;
+  	object-fit: cover;
+  	opacity: 0.5;
+}
+.icon10 {
+  	position: absolute;
+  	top: 77px;
+  	left: 785px;
+  	width: 220px;
+  	height: 127px;
+  	object-fit: cover;
+  	opacity: 0.5;
+}
+.frame-child3 {
+  	position: absolute;
+  	top: 102px;
+  	left: 0px;
+  	filter: blur(5px);
+  	background-color: rgba(145, 199, 131, 0.53);
+  	width: 1280px;
+  	height: 63px;
+}
+.unipue {
+  	position: absolute;
+  	top: 102px;
+  	left: 432px;
+  	font-weight: 300;
+  	display: inline-block;
+  	width: 445px;
+  	height: 75px;
+}
+.rectangle-group {
+  	position: absolute;
+  	top: 1671px;
+  	left: 0px;
+  	width: 1280px;
+  	height: 266px;
+  	overflow: hidden;
+  	cursor: pointer;
+  	font-size: 40px;
+}
+.frame-child4 {
+  	position: absolute;
+  	top: 25px;
+  	left: 320px;
+  	background-color: rgba(217, 217, 217, 0);
+  	border: 1px solid #000;
+  	box-sizing: border-box;
+  	width: 208px;
+  	height: 208px;
+}
+.frame-child5 {
+  	position: absolute;
+  	top: 23px;
+  	left: 77px;
+  	background-color: rgba(217, 217, 217, 0);
+  	border: 1px solid #000;
+  	box-sizing: border-box;
+  	width: 208px;
+  	height: 208px;
+}
+.frame-child6 {
+  	position: absolute;
+  	top: 25px;
+  	left: 796px;
+  	background-color: rgba(217, 217, 217, 0);
+  	border: 1px solid #000;
+  	box-sizing: border-box;
+  	width: 208px;
+  	height: 208px;
+}
+.frame-child7 {
+  	position: absolute;
+  	top: 25px;
+  	left: 1039px;
+  	background-color: rgba(217, 217, 217, 0);
+  	border: 1px solid #000;
+  	box-sizing: border-box;
+  	width: 208px;
+  	height: 208px;
+}
+.frame-child8 {
+  	position: absolute;
+  	top: 25px;
+  	left: 558px;
+  	background-color: rgba(217, 217, 217, 0);
+  	border: 1px solid #000;
+  	box-sizing: border-box;
+  	width: 208px;
+  	height: 208px;
+}
+.icon11 {
+  	position: absolute;
+  	top: 26px;
+  	left: 265px;
+  	width: 319px;
+  	height: 240px;
+  	object-fit: cover;
+  	opacity: 0.5;
+}
+.tyuou-tanpin-3-icon {
+  	position: absolute;
+  	top: 8px;
+  	left: 785px;
+  	width: 241px;
+  	height: 181px;
+  	object-fit: cover;
+  	opacity: 0.5;
+}
+.icon12 {
+  	position: absolute;
+  	top: 18px;
+  	left: 992px;
+  	width: 288px;
+  	height: 162px;
+  	object-fit: cover;
+  	opacity: 0.5;
+}
+.frame-child9 {
+  	position: absolute;
+  	top: 65px;
+  	left: 0px;
+  	filter: blur(5px);
+  	background-color: rgba(246, 246, 198, 0.8);
+  	width: 1280px;
+  	height: 63px;
+}
+.reasonable {
+  	position: absolute;
+  	top: 70px;
+  	left: 430px;
+  	font-weight: 300;
+  	display: inline-block;
+  	width: 458px;
+  	height: 58px;
+}
+.tyuou-tanpin-3-parent {
+  	position: absolute;
+  	top: 30px;
+  	left: 0px;
+  	width: 1280px;
+  	height: 201px;
+  	overflow: hidden;
+  	cursor: pointer;
+}
+.rectangle-container {
+  	position: absolute;
+  	top: 1985px;
+  	left: 0px;
+  	width: 1280px;
+  	height: 266px;
+  	overflow: hidden;
+  	font-size: 40px;
+}
+.karameru-deni-3-icon {
+  	position: absolute;
+  	top: 29px;
+  	left: 298px;
+  	width: 246px;
+  	height: 185px;
+  	object-fit: cover;
+  	opacity: 0.5;
+}
+.frame-child10 {
+  	position: absolute;
+  	top: 76px;
+  	left: 0px;
+  	filter: blur(4px);
+  	background-color: rgba(222, 186, 108, 0.51);
+  	width: 1280px;
+  	height: 63px;
+}
+.bread-sweet {
+  	position: absolute;
+  	top: 83px;
+  	left: 451px;
+  	font-weight: 300;
+  	display: inline-block;
+  	width: 423px;
+  	height: 37px;
+}
+.karameru-deni-3-parent {
+  	position: absolute;
+  	top: 2290px;
+  	left: 0px;
+  	width: 1280px;
+  	height: 214px;
+  	overflow: hidden;
+  	cursor: pointer;
+  	font-size: 40px;
+}
+.macbook-air-1 {
+  	width: 100%;
+  	position: relative;
+  	background-color: #fff;
+  	height: 2692px;
+  	overflow: hidden;
+  	text-align: center;
+  	font-size: 36px;
+  	color: #000;
+  	font-family: Inter;
+}
+
+
+
+
+
+.menu-button-open {
+	position: fixed;
+	width: 90px;
+	height: 92px;
+	top: 0;
+	right: 20px;
+	z-index: 1000;
+	font-weight: 400;
+	color: #000000;
+	font-size: 80px;
+	text-align: center;
+	letter-spacing: 0;
+	line-height: normal;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+	color: #cacaca;
+	cursor : pointer;
+  }
+  
+  #menu-check {
+	display: none;
+  }
+  
+.menu-overray-bg {
+	position: fixed;
+	width: 100%;
+	height: 100%;
+	top: 0;
+	left: 0;
+	z-index: 99;
+	background-color: rgba(128, 128, 128, 0);
+	transition-duration: 0.2s;
+  }
+  
+  #menu-check:checked ~ .menu-overray-bg {
+	background-color: rgba(128, 128, 128, 0.5);
+  }  
+  #menu-check:not(:checked) ~ .menu-overray-bg {
+	display: none;
+	z-index: 1;
+	background-color: rgba(128, 128, 128, 0);
+  }
+  
+ .menu-overray {
+	position: fixed;
+	width: 30%;
+	height: 100%;
+	top: 0;
+	left: 100%;
+	z-index: 101;
+	background-color:aliceblue;
+	transition-duration: 0.2s;
+  }
+.menu-container {
+	position: relative;
+	top: 100px;
+	display: flex;
+	flex-flow: column;
+	align-items: center;
+  }
+  
+.menu-overray a {
+	font-size: 48px;
+	padding: 0.5em;
+  }
+  
+  #menu-check:checked ~ .menu-overray {
+	left: 70%;
+  }  
