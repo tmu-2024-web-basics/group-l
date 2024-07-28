@@ -22,7 +22,7 @@
 }
 .four-students-from-container {
     position: absolute;
-    top: 1396px;
+    top: 1938px;
     left: 0px;
     font-size: 20px;
     display: inline-block;
@@ -82,7 +82,7 @@
 .p {
     margin-block-start: 0;
     margin-block-end: 55px;
-    font-size: 20px;
+    font-size: 36px;
 }
 .p1 {
     margin-block-start: 0;
@@ -97,7 +97,7 @@
     text-align: left;
     width: 400px;
     height: 507px;
-    font-size: 20px;
+    font-size: 24px;
 }
 .span {
     line-height: 70.94%;
@@ -105,13 +105,15 @@
 .p6 {
     margin-block-start: 0;
     margin-block-end: 55px;
-    font-size: 20px;
+    font-size: 24px;
 }
-
+.span4 {
+    line-height: 100%;
+}
 .i1 {
     position: absolute;
-    top: 924px;
-    left: 683px;
+    top: 980px;
+    left: 652px;
     display: inline-block;
     font-weight: 900;
     text-align: left;
@@ -123,7 +125,7 @@
     width: 100%;
     position: relative;
     background-color: #fff;
-    height: 1501px;
+    height: 2044px;
     overflow: hidden;
     text-align: center;
     font-size: 48px;
